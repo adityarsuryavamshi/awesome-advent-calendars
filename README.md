@@ -19,9 +19,10 @@
 * [AdventJS](https://adventjs.dev/)
 * [Advent of Svelte](https://advent.sveltesociety.dev/)
 
-### Chess
+### Others
 
 * [Advent of Chess](https://www.adventofchess.com/)
+* [Puzzle Calendars](https://mathigon.org/puzzles)
 
 ## Blogs
 
@@ -41,3 +42,4 @@
 ## Acknowledgments
 
 * [Smashing Magazine](https://www.smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/)
+* [Fiddler on the Proof](https://thefiddler.substack.com/)
