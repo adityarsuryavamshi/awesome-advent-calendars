@@ -11,6 +11,7 @@
 * [Hannukah of Data](https://hanukkah.bluebird.sh/5784/)
 * [XORnaments](https://neonarcade.games/xornaments/)
 * [Advent of Cyber](https://tryhackme.com/r/christmas)
+* [Tiny Code Christmas](https://tcc.lovebyte.party/)
 
 #### Language Specific
 
